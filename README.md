@@ -40,6 +40,7 @@ This tool is designed to simulate keypresses on virtual piano websites or browse
 ## 🔍 Example Uses
 
 - **Playing songs** on [virtualpiano.net](https://virtualpiano.net/) and similar sites
+- **On Roblox piano games
 - **Bypassing AFK detection** in games (use input like `w|||||||w`)
 - **Simulating keyboard macros** for testing or automation
 
